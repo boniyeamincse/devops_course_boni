@@ -50,6 +50,24 @@ This repository contains a comprehensive study roadmap for DevOps practices, cov
 42. 📡 Event-Driven Architectures
 43. 🔄 Continuous Improvement & Learning (DevOps Culture Revisited)
 
+## 📊 Visual Roadmap
+
+```mermaid
+flowchart TD
+    Start[🚀 Start] --> Culture[1. Understand DevOps Culture<br/>3. Core DevOps Principles]
+    Culture --> VCS[5. Git<br/>Version Control]
+    VCS --> CI[7. Jenkins<br/>Continuous Integration]
+    CI --> Container[9. Kubernetes<br/>11. Docker<br/>Container Orchestration]
+    Container --> IaC[13. Puppet<br/>15. Ansible<br/>Infrastructure as Code]
+    IaC --> CD[17. Continuous Delivery<br/>19. Blue-Green Deployments]
+    CD --> Monitoring[21. Prometheus<br/>23. Elasticsearch<br/>Monitoring & Logging]
+    Monitoring --> Security[25. Security and Compliance Basics<br/>27. Bash<br/>28. Python<br/>Scripting]
+    Security --> Infra[29. Terraform<br/>31. Cloud Platforms<br/>Infrastructure Provisioning]
+    Infra --> Advanced[33. Performance Tuning<br/>35. Disaster Recovery<br/>37. Continuous Deployment Best Practices]
+    Advanced --> Modern[39. Istio<br/>41. Serverless Architectures]
+    Modern --> End[43. Continuous Improvement & Learning]
+```
+
 ## 📚 Topic Notes
 
 Below is a table linking to the detailed notes for each available topic:
