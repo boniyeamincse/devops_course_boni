@@ -1,0 +1,43 @@
+Understand the DevOps Culture
+
+Grasp Core DevOps Principles
+
+Git (Version Control Systems)
+
+Jenkins (Continuous Integration)
+
+Kubernetes (Container Orchestration)
+
+Docker (Containerisation Basics)
+
+Puppet (Infrastructure as Code)
+
+Ansible (Software Configuration Management)
+
+Continuous Delivery Fundamentals
+
+Blue-Green Deployments
+
+Prometheus (Infrastructure Monitoring)
+
+Elasticsearch (Log Management)
+
+Security and Compliance Basics
+
+Bash/Python (Scripting Automation)
+
+Terraform (Infrastructure Provisioning)
+
+AWS, Azure, or Google Cloud Platform (Cloud Platforms)
+
+Performance Tuning and Benchmarking
+
+Disaster Recovery Strategies
+
+Continuous Deployment Best Practices
+
+Istio (Service Mesh Architectures)
+
+Serverless Architectures in DevOps
+
+Continuous Improvement & Learning (DevOps Culture Revisited)
