@@ -1,43 +1,37 @@
-Understand the DevOps Culture
+# 🚀 DevOps Learning Roadmap
 
-Grasp Core DevOps Principles
+## 📚 Beginner Level
+1. 💡 Understand the DevOps Culture  
+2. 🔧 Grasp Core DevOps Principles  
 
-Git (Version Control Systems)
+## 🛠️ Core DevOps Tools
+3. 📦 Git (Version Control Systems)  
+4. 🔄 Jenkins (Continuous Integration)  
+5. 🐳 Docker (Containerisation Basics)  
+6. ☸️ Kubernetes (Container Orchestration)  
+7. ⚙️ Ansible (Software Configuration Management)  
+8. 🛠️ Puppet (Infrastructure as Code)  
 
-Jenkins (Continuous Integration)
+## 📋 DevOps Practices
+9. 📤 Continuous Delivery Fundamentals  
+10. 🔄 Blue-Green Deployments  
+11. 📊 Prometheus (Infrastructure Monitoring)  
+12. 🔍 Elasticsearch (Log Management)  
+13. 🔒 Security and Compliance Basics  
+14. 💻 Bash/Python (Scripting Automation)  
 
-Kubernetes (Container Orchestration)
+## ☁️ Cloud & Infrastructure
+15. 🏗️ Terraform (Infrastructure Provisioning)  
+16. ☁️ AWS, Azure, or Google Cloud Platform (Cloud Platforms)  
 
-Docker (Containerisation Basics)
+## 🎯 Advanced Topics
+17. ⚡ Performance Tuning and Benchmarking  
+18. 🛡️ Disaster Recovery Strategies  
+19. 🚀 Continuous Deployment Best Practices  
+20. 🌐 Istio (Service Mesh Architectures)  
+21. ⚡ Serverless Architectures in DevOps  
+22. 🔄 Continuous Improvement & Learning (DevOps Culture Revisited)
 
-Puppet (Infrastructure as Code)
+---
 
-Ansible (Software Configuration Management)
-
-Continuous Delivery Fundamentals
-
-Blue-Green Deployments
-
-Prometheus (Infrastructure Monitoring)
-
-Elasticsearch (Log Management)
-
-Security and Compliance Basics
-
-Bash/Python (Scripting Automation)
-
-Terraform (Infrastructure Provisioning)
-
-AWS, Azure, or Google Cloud Platform (Cloud Platforms)
-
-Performance Tuning and Benchmarking
-
-Disaster Recovery Strategies
-
-Continuous Deployment Best Practices
-
-Istio (Service Mesh Architectures)
-
-Serverless Architectures in DevOps
-
-Continuous Improvement & Learning (DevOps Culture Revisited)
+*This roadmap provides a structured path from beginner to advanced DevOps concepts and tools.*
